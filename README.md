@@ -12,7 +12,7 @@ Run csv-combiner.py on your terminal with the following command:
 ```
 $ python csv-combiner.py csvfileA csvfileB > combined.py
 ```
-After that, the process starts when the program converts these CSV files from the command line into arguments with a function. Then, the program will store the CSV data and its file name into an array. After that, the program will combine all CSV files into one CSV file with a function. In the end, the array is getting converted into a CSV file that is ready to get printed by the program.
+The process starts when the program converts these CSV files from the command line into arguments with a function. Then, the program will store the CSV data and its file name into an array. After that, the program will combine all CSV files into one CSV file with a function. In the end, the array is getting converted into a CSV file that is ready to get printed by the program.
 
 ## Pandas Library
 
